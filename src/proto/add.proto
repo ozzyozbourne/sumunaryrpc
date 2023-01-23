@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package add;
+
+option go_package = "github.com/ozzyozbourne/sumunaryrpc/buildout/proto";
